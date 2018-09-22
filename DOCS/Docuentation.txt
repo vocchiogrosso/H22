@@ -1,0 +1,93 @@
+ ___________________________________________________________________
+||/////////////////////////////////////////////////////////////////||
+||\\|-_----_------------------- ____--------_-_-----_-----------|\\||
+||//|| |--| |------------------|  _ \ -----(_) |---| |----------|//||
+||\\|| |--| |_---_-_-__---___--| |_) |_----|_| |-__| |-___-_-__-|\\||
+||//||  __  | |-| | '_ \ / _ \-|  _ <| |-| | | |/ _` |/ _ \ '__||//||
+||\\|| |--| | |_| | |_) |  __/-| |_) | |_| | | | (_| |  __/ |---|\\||
+||//||_|--|_|\__, | .__//\___|-|____//\__,_|_|_|\__,_|\___|_|---|//||
+||\\|---------__/ | |-------------------------------------------|\\||
+||//|--------|___/|_|-------------------------------------------|//||
+||\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\||
+||////////_________________________________________________////////||
+||\\\\\\\||                                               ||\\\\\\\||
+||///////||     Welcome To The HypeBuilder User Manual    ||///////||
+||\\\\\\\||        Published: June 2017   Edition 1       ||\\\\\\\||
+||///////||                                               ||///////||
+||\\\\\\\||        Written By: Vincent Occhiogrosso       ||\\\\\\\||
+||///////||_______________________________________________||///////||
+||\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\||
+||/////////////////////////////////////////////////////////////////||
+ -------------------------------------------------------------------
+
+//| FAQ |//
+
+ What Is HypeBuilder?
+  - HypeBuilder Is A Series Of Files And Processes That Helps Easily
+    Develop Beautiful And Device Friendly Websites On Almost Any 
+    Device And Platform Without Coding.
+
+ How Does It Work?
+  - HypeBuilder Primarily Uses Javascript And jQuery To Implment The 
+    HTML Structure Followed By Styling The CSS And Finally Adding The
+    The Functions Via Javascript.
+
+ Why Should I Use It?
+  - HyperBuilder Uses Methods That Make It Extremly Dynamic And Easy 
+    To Use Implment And Maintain Over A Long Peroid Of Time. Did We
+    Mention That It's FREE!
+
+ How Much Is It?
+  - Absolutely FREE! 
+   
+
+//| Guide In Building The HTML |//
+
+ -Types Of Screen Splits (First Number Is Columns Second Is Rows)
+
+   W = Whole Screen, H = Horizontally Split, V = Verticle Split
+ 
+  Universal:
+   - 1W0 = Whole Screen               - Default/All
+
+  Horizontally: First Number Is Top, Second Number Is Bottom.
+     L|R
+   - 1H1 = 1L Of Split, 1R Of Split   - Desktop/WideScreen
+   - 1H2 = 1L Of Split, 2R Of Split   - Desktop/WideScreen
+   - 1H3 = 2L Of Split, 3R Of Split   - Desktop/WideScreen
+   - 1H4 = 2L Of Split, 4R Of Split   - Desktop/WideScreen
+   - 2H1 = 2L Of Split, 1R Of Split   - Desktop/WideScreen
+   - 2H2 = 2L Of Split, 2R Of Split   - Desktop/WideScreen
+   - 2H3 = 2L Of Split, 3R Of Split   - Desktop/WideScreen
+   - 3H1 = 3L Of Split, 1R Of Split   - Desktop/WideScreen
+   - 3H2 = 3L Of Split, 2R Of Split   - Desktop/WideScreen
+   - 3H3 = 3L Of Split, 3R Of Split   - Desktop/WideScreen
+   - 3H4 = 3L Of Split, 4R Of Split   - Desktop/WideScreen
+   - 4H1 = 4L Of Split, 1R Of Split   - Desktop/WideScreen
+   - 4H2 = 4L Of Split, 2R Of Split   - Desktop/WideScreen
+   - 4H3 = 4L Of Split, 3R Of Split   - Desktop/WideScreen
+   - 4H4 = 4L Of Split, 4R Of Split   - Desktop/WideScreen
+    
+  Upto 6H6 or 6V6 Split On WideScreen 
+  No Three Way Spliting For Now   
+
+  Vertically: First Number Is Left Second Is Right.
+     T|B
+   - 1H1 = 1T Of Split, 1B Of Split   - Desktop/WideScreen
+   - 1H2 = 1T Of Split, 2B Of Split   - Desktop/WideScreen
+   - 1H3 = 2T Of Split, 3B Of Split   - Desktop/WideScreen
+   - 1H4 = 2T Of Split, 4B Of Split   - Desktop/WideScreen
+   - 2H1 = 2T Of Split, 1B Of Split   - Desktop/WideScreen
+   - 2H2 = 2T Of Split, 2B Of Split   - Desktop/WideScreen
+   - 2H3 = 2T Of Split, 3B Of Split   - Desktop/WideScreen
+   - 3H1 = 3T Of Split, 1B Of Split   - Desktop/WideScreen
+   - 3H2 = 3T Of Split, 2B Of Split   - Desktop/WideScreen
+   - 3H3 = 3T Of Split, 3B Of Split   - Desktop/WideScreen
+   - 3H4 = 3T Of Split, 4B Of Split   - Desktop/WideScreen
+   - 4H1 = 4T Of Split, 1B Of Split   - Desktop/WideScreen
+   - 4H2 = 4T Of Split, 2B Of Split   - Desktop/WideScreen
+   - 4H3 = 4T Of Split, 3B Of Split   - Desktop/WideScreen
+   - 4H4 = 4T Of Split, 4B Of Split   - Desktop/WideScreen
+    
+  Upto 6H6 or 6V6 Split (No Both For Now); 
+ 
